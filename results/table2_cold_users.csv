@@ -1,0 +1,13 @@
+Known ratings,Model,Recall@10,NDCG@10
+1,Popularity,0.0241,0.0748
+1,SBERT profile,0.0082,0.009
+1,SBERT + popularity,0.0062,0.0069
+3,Popularity,0.0241,0.0748
+3,SBERT profile,0.0041,0.0087
+3,SBERT + popularity,0.0041,0.0087
+5,Popularity,0.0241,0.0748
+5,SBERT profile,0.0051,0.0188
+5,SBERT + popularity,0.0051,0.0162
+10,Popularity,0.0241,0.0748
+10,SBERT profile,0.0,0.0
+10,SBERT + popularity,0.0041,0.0025

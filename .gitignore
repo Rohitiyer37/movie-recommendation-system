@@ -1,0 +1,19 @@
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets and local settings
+.env
+.streamlit/secrets.toml
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
+# Downloaded datasets — adjust these paths to your project
+data/raw/

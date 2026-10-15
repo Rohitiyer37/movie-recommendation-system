@@ -1,0 +1,3 @@
+,Precision@10,Recall@10,NDCG@10
+Random,0.0087,0.0101,0.0102
+SBERT content,0.0105,0.018,0.0197
