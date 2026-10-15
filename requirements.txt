@@ -4,3 +4,4 @@ scipy
 scikit-learn
 sentence-transformers
 streamlit
+certifi
